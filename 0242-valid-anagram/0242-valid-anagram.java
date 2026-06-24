@@ -1,17 +1,21 @@
 class Solution {
-
-    static HashMap<Character , Integer> mkfr(String str){
-        HashMap<Character , Integer> map = new HashMap<>();
-        for(char ar : str.toCharArray()){
-    map.put(ar , map.getOrDefault(ar, 0) + 1);
-   } return map;
-    }
     public boolean isAnagram(String s, String t) {
-        if(s.length() != t.length()){
-            return false;
+        if(s.length() != t.length()) return false;
+
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        for(char c : s.toCharArray()){
+            map.put(c, map.getOrDefault(c, 0) + 1);  // s se +1
         }
-        HashMap<Character , Integer> m1 = mkfr(s);
-        HashMap<Character , Integer> m2 = mkfr(t);
-        return m1.equals(m2);
+
+        for(char c : t.toCharArray()){
+            map.put(c, map.getOrDefault(c, 0) - 1);  // t se -1
+        }
+
+        for(int val : map.values()){
+            if(val != 0) return false;  // koi bhi 0 nahi → not anagram
+        }
+
+        return true;
     }
 }
