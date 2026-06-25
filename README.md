@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0027-remove-element/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -50,6 +51,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
