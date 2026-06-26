@@ -48,12 +48,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
@@ -68,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
