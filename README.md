@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0027-remove-element/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
