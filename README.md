@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
@@ -92,6 +93,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
