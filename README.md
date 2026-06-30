@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -98,6 +99,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sliding Window
