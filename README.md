@@ -17,6 +17,7 @@
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Math
@@ -86,6 +87,7 @@
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
