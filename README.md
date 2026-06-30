@@ -13,6 +13,7 @@
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0704-binary-search](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -86,6 +87,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
