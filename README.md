@@ -7,6 +7,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0027-remove-element/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
@@ -73,6 +74,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0027-remove-element/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
