@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -35,6 +36,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
