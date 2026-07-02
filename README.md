@@ -57,6 +57,7 @@
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0796-rotate-string/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +191,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0796-rotate-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
