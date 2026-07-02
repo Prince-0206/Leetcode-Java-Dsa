@@ -75,6 +75,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -97,6 +98,7 @@
 | [0125-valid-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -123,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -145,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0143-reorder-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
