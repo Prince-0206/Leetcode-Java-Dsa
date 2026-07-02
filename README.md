@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -44,6 +45,7 @@
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
@@ -62,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -195,4 +198,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
