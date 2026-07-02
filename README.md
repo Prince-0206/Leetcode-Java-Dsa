@@ -29,6 +29,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -68,6 +69,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0061-rotate-list/) | Medium |
@@ -147,6 +149,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0206-reverse-linked-list/) | Easy |
