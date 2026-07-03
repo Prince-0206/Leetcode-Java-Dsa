@@ -5,7 +5,7 @@ class Solution {
 
         for (int i = 0; i < prices.length; i++) {
             if (prices[i] < minPrice) {
-                minPrice = prices[i]; // naya sabse sasta din
+                minPrice = prices[i]; 
             } else {
                 maxProfit = Math.max(maxProfit, prices[i] - minPrice);
             }
