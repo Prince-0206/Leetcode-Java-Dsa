@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
