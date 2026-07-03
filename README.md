@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
@@ -97,6 +98,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -186,6 +188,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
