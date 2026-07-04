@@ -66,6 +66,7 @@
 | [0125-valid-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0796-rotate-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sorting
@@ -153,6 +154,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
@@ -201,10 +203,12 @@
 | [0005-longest-palindromic-substring](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0011-container-with-most-water/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
