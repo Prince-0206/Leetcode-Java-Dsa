@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0704-binary-search/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -207,6 +208,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
