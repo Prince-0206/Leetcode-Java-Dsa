@@ -220,6 +220,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0070-climbing-stairs/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -255,4 +256,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
