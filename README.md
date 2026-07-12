@@ -50,6 +50,7 @@
 | [0070-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -260,6 +261,7 @@
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
