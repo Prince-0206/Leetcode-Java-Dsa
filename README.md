@@ -77,6 +77,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0179-largest-number/) | Medium |
