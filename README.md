@@ -92,6 +92,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0796-rotate-string/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
