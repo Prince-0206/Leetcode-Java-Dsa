@@ -40,6 +40,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1550-three-consecutive-odds/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
