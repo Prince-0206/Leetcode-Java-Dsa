@@ -96,6 +96,7 @@
 | [0709-to-lower-case](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
