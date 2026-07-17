@@ -26,6 +26,7 @@
 | [0179-largest-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -67,6 +68,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
+| [0217-contains-duplicate](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -102,6 +104,7 @@
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0561-array-partition/) | Easy |
