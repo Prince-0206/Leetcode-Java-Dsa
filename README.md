@@ -41,6 +41,7 @@
 | [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -79,6 +80,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +287,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
