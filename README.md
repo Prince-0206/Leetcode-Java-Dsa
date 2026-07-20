@@ -39,6 +39,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -277,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1260-shift-2d-grid/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -327,4 +329,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0014-longest-common-prefix/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
