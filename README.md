@@ -22,6 +22,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
@@ -69,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -93,6 +95,7 @@
 | [0058-length-of-last-word](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -259,6 +262,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -304,6 +308,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
