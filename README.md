@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0066-plus-one](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -123,6 +124,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0016-3sum-closest/) | Medium |
+| [0075-sort-colors](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0179-largest-number/) | Medium |
@@ -171,6 +173,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
