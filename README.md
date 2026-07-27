@@ -326,6 +326,7 @@
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0476-number-complement](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0476-number-complement/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
