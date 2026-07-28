@@ -67,6 +67,7 @@
 | [0342-power-of-four](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0415-add-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0415-add-strings/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -163,6 +164,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -223,6 +225,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
