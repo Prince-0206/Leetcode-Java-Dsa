@@ -43,6 +43,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1260-shift-2d-grid/) | Easy |
@@ -94,6 +95,7 @@
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0500-keyboard-row/) | Easy |
 | [0791-custom-sort-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0791-custom-sort-string/) | Medium |
+| [0804-unique-morse-code-words](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 ## String
@@ -120,6 +122,7 @@
 | [0709-to-lower-case](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0709-to-lower-case/) | Easy |
 | [0791-custom-sort-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0791-custom-sort-string/) | Medium |
 | [0796-rotate-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0796-rotate-string/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0917-reverse-only-letters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
