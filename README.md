@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -79,6 +80,7 @@
 | [0001-two-sum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0141-linked-list-cycle/) | Easy |
@@ -106,6 +108,7 @@
 | [0014-longest-common-prefix](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0125-valid-palindrome/) | Easy |
@@ -135,6 +138,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0016-3sum-closest/) | Medium |
+| [0049-group-anagrams](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
