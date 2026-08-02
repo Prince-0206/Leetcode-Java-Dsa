@@ -114,6 +114,7 @@
 | [0058-length-of-last-word](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0179-largest-number/) | Medium |
@@ -305,6 +306,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -364,6 +366,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
