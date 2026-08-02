@@ -45,6 +45,7 @@
 | [0704-binary-search](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1260-shift-2d-grid/) | Easy |
@@ -71,6 +72,7 @@
 | [0415-add-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -307,6 +309,7 @@
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,4 +397,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0148-sort-list/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
