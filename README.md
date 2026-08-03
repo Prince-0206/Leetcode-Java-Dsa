@@ -67,6 +67,7 @@
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
+| [0258-add-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -336,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1929-concatenation-of-array/) | Easy |
@@ -390,6 +392,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
