@@ -57,6 +57,7 @@
 | [1550-three-consecutive-odds](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | [0804-unique-morse-code-words](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@
 | [0791-custom-sort-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0791-custom-sort-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [3731-find-missing-elements](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
