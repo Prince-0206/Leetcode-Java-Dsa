@@ -78,6 +78,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1518-water-bottles](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1518-water-bottles/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
@@ -346,6 +347,7 @@
 | [0258-add-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0415-add-strings/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1260-shift-2d-grid/) | Easy |
+| [1518-water-bottles](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1518-water-bottles/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Divide and Conquer
