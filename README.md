@@ -70,6 +70,7 @@
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0342-power-of-four/) | Easy |
@@ -96,6 +97,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
@@ -224,6 +226,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -435,4 +438,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
