@@ -35,6 +35,7 @@
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -100,6 +101,7 @@
 | [0202-happy-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -252,6 +254,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
