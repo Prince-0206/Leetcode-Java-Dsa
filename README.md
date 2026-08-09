@@ -33,6 +33,7 @@
 | [0179-largest-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -332,6 +333,7 @@
 | [0131-palindrome-partitioning](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0213-house-robber-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
