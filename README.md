@@ -51,6 +51,7 @@
 | [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1089-duplicate-zeros/) | Easy |
+| [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1260-shift-2d-grid/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -80,6 +81,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1518-water-bottles/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -333,6 +335,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +436,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,4 +449,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0202-happy-number/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
