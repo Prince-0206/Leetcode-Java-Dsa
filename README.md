@@ -71,6 +71,7 @@
 | [0009-palindrome-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0202-happy-number/) | Easy |
@@ -248,6 +249,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
@@ -463,4 +465,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
