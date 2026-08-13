@@ -39,6 +39,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
+| [0384-shuffle-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0384-shuffle-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
@@ -80,6 +81,7 @@
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0384-shuffle-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0384-shuffle-an-array/) | Medium |
 | [0415-add-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -290,6 +292,7 @@
 | [0155-min-stack](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0384-shuffle-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0384-shuffle-an-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,4 +479,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0069-sqrtx/) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0384-shuffle-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0384-shuffle-an-array/) | Medium |
 <!---LeetCode Topics End-->
