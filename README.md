@@ -124,6 +124,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
