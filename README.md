@@ -71,6 +71,7 @@
 | [0002-add-two-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0067-add-binary/) | Easy |
@@ -99,6 +100,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0049-group-anagrams/) | Medium |
@@ -133,6 +135,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0020-valid-parentheses/) | Easy |
