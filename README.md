@@ -64,6 +64,7 @@
 | [1929-concatenation-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -394,6 +395,7 @@
 | [1518-water-bottles](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1518-water-bottles/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1929-concatenation-of-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
