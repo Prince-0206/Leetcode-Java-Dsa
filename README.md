@@ -121,6 +121,7 @@
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0496-next-greater-element-i/) | Easy |
@@ -158,6 +159,7 @@
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0415-add-strings/) | Easy |
@@ -193,6 +195,7 @@
 | [0217-contains-duplicate](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
+| [0389-find-the-difference](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0561-array-partition](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0791-custom-sort-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0791-custom-sort-string/) | Medium |
@@ -420,6 +423,7 @@
 | [0268-missing-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0389-find-the-difference](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0476-number-complement/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2351-first-letter-to-appear-twice/) | Easy |
