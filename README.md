@@ -98,6 +98,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
