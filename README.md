@@ -96,6 +96,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1518-water-bottles/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -177,6 +178,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1927-sum-game/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -384,6 +386,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1927-sum-game/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,6 +480,7 @@
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
+| [1927-sum-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1927-sum-game/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
