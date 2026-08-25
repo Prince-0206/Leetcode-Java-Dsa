@@ -66,6 +66,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
