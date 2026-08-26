@@ -185,6 +185,7 @@
 | [1927-sum-game](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1927-sum-game/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -293,6 +294,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0239-sliding-window-maximum/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Stack
