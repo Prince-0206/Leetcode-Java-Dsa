@@ -68,6 +68,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3731-find-missing-elements/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,6 +509,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/1140-stone-game-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
