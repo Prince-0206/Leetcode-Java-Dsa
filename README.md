@@ -151,6 +151,7 @@
 | [0014-longest-common-prefix](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0058-length-of-last-word/) | Easy |
@@ -367,6 +368,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0072-edit-distance/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
@@ -447,6 +449,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0022-generate-parentheses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Tree
@@ -522,4 +525,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0384-shuffle-an-array](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0384-shuffle-an-array/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Prince-0206/Leetcode-Java-Dsa/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
